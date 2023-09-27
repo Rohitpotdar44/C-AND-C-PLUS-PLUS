@@ -1,4 +1,4 @@
-/*#include<iostream.h>
+#include<iostream.h>
 #include<conio.h>
 void main()
 {
@@ -12,15 +12,6 @@ void main()
 	}
 
 	getch();
-}*/
-#include<iostream.h>
-#include<conio.h>
-void sum()
-{	cout<<"sum is"<<(30+20);
 }
-void main()
-{       clrscr();
-	sum();
-	getch();
-}
+
 

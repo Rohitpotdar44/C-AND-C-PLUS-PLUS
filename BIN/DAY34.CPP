@@ -42,7 +42,7 @@ void main()
 //Function
 
 //Without parameter and Without Argument
-/*#include<iostream.h>
+#include<iostream.h>
 #include<conio.h>
 void sum ()
 {
@@ -55,8 +55,8 @@ void main()
 	getch();
 }
 //With parameter and Without Argument
-/*
-#include<iostream.h>
+
+/*#include<iostream.h>
 #include<conio.h>
 int sum ()
 {

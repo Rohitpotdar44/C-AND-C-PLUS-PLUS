@@ -5,7 +5,7 @@ int main()
     float temp;
     bool clear=true;
     printf("Enter temp in C=\n");
-    scanf("%lf",&temp);
+    scanf("%f",&temp);
     if(temp>10 && temp<35 && clear)
     {
         printf("\n The whether is good");
